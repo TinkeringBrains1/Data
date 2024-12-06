@@ -131,5 +131,28 @@
         "android_OS": "4.4+",
         "version": "1.0.1",
         "content": "Bring Your Own Pois\nThis app allows to create lists of POIS stored as drive documents and let the user to upload any URL of this Drive documents to a Physical Web Beacon."
+    },
+    {
+        "name": "Simple CMS",
+        "icon": "icon.webp",
+        "category": "Maps & Navigation",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp"
+        ],
+        "base_url": "./apps/Simple_CMS/",
+        "file": "/app/Simple CMS_1.0.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Jul 26, 2021",
+        "android_OS": "8.0+",
+        "version": "1.0",
+        "content": "Simple CMS is a storyboards creation and management system for Liquid Galaxy.\nSimple CMS is a content management system for the creation and administration of storyboards in Liquid Galaxy, developed as part of Google Summer of Code 2020 by Diego Riveros, with Andreu Ibañez as mentor, and Marc Capdevila and Moisés Martínez as co-mentors.\nThe project Simple CMS is an android application that allows the creation of a storyboard with the following functionalities, that are going to be shown in the Liquid Galaxy:\n1. Location. Add a position.\n2. Movements. Add a movement or orbit.\n3. Balloon. Add a text, image and a video.\n4. Shape. Add two or more points that will make a shape. Also, it has an extrude option, that will fill up the space of the point to the ground.\nAfter creating a storyboard is feasible to save it locally or in google drive. Also, it is possible to import a storyboard from google drive.\nIt is important to mention that saving and importing storyboards are only available if you are logged in the application.\nOn the other hand, Simple CMS downloads community names, city, country and location of the different Google Developers community at Meetup.com.\nFinally, It is possible to do a tour of all the google developers community around the world."
     }
 ]
