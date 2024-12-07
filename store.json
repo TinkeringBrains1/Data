@@ -231,7 +231,7 @@
             "6.webp"
         ],
         "base_url": "/apps/Smart_City_Dashboard/",
-        "file": "app/Smart City Dashboard-1.1.0.apk",
+        "file": "app/Smart City Dashboard-1.1.0.apk.zip",
         "pwa_link": "",
         "type": "app",
         "date": "Aug 14, 2023",
@@ -360,248 +360,248 @@
         "version": "1.0.0",
         "content": "App that gives you the access to know if two satellites will collide or not.\n The Satellite Collision Prevision mobile application is an app that gives you the access to know if two satellites will collide or not.\n When the app is connected to the Liquid Galaxy, it gives you access to see where the orbits of the satellites selected, where the collision will be if the artificial intelligence model says that will collide, and the area affected due this collision.\n The app also has an option to view the trajectory of multiple satellites."
     },
-       {
-    "name": "BIM LG Visualizer",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp"
-    ],
-    "base_url": "/apps/BIM LG Visualizer/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 30, 2022",
-    "android_OS": "4.4W+",
-    "version": "1.0.0",
-    "content": "View BIM 3D models and metadata on a Liquid Galaxy RIG.\nBIM Liquid Galaxy Visualizer is a tool developed for the Google Summer of Code 2022 alongside the Liquid Galaxy Organization.\nThe idea behind this tool is to visualize BIM 3D models on the Liquid Galaxy RIG system using a mobile device.\nUsers can open their own uploaded 3D models or use the demo models.\nWhen a model is opened into the galaxy, a controller is displayed with transform movements (rotation, translation, and scale).\nThis project was started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization, developed by Vinicius Cavalcanti.\n\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+    {
+        "name": "BIM LG Visualizer",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "base_url": "/apps/BIM LG Visualizer/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 30, 2022",
+        "android_OS": "4.4W+",
+        "version": "1.0.0",
+        "content": "View BIM 3D models and metadata on a Liquid Galaxy RIG.\nBIM Liquid Galaxy Visualizer is a tool developed for the Google Summer of Code 2022 alongside the Liquid Galaxy Organization.\nThe idea behind this tool is to visualize BIM 3D models on the Liquid Galaxy RIG system using a mobile device.\nUsers can open their own uploaded 3D models or use the demo models.\nWhen a model is opened into the galaxy, a controller is displayed with transform movements (rotation, translation, and scale).\nThis project was started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization, developed by Vinicius Cavalcanti.\n\nLleida Liquid Galaxy LAB support: Pau Francino\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
     },
     {
-    "name": "RAS",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp",
-        "6.webp",
-        "7.webp",
-        "8.webp"
-    ],
-    "base_url": "/apps/RAS/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Sep 2, 2022",
-    "android_OS": "4.4W+",
-    "version": "1.0.1",
-    "content": "An app to help with the reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator is an Open Source app designed to assist in reforestation missions on degraded areas of the planet. The project consists of an Android app where users can plan reforesting missions by defining areas of seeding, specific seed/tree locations, drone landing points, fly zones, and other useful metrics.\nAll the gathered information can be dynamically displayed on the Liquid Galaxy cluster using KMLs and on the app itself with the help of charts, maps, and text, providing an immersive overview of the project.\nThis project was started as a Google Summer of Code 2021 project with the Liquid Galaxy Organization alongside the Dronecoria team, developed by Brazilian student Karine Pistili.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-},
+        "name": "RAS",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp"
+        ],
+        "base_url": "/apps/RAS/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 2, 2022",
+        "android_OS": "4.4W+",
+        "version": "1.0.1",
+        "content": "An app to help with the reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator is an Open Source app designed to assist in reforestation missions on degraded areas of the planet. The project consists of an Android app where users can plan reforesting missions by defining areas of seeding, specific seed/tree locations, drone landing points, fly zones, and other useful metrics.\nAll the gathered information can be dynamically displayed on the Liquid Galaxy cluster using KMLs and on the app itself with the help of charts, maps, and text, providing an immersive overview of the project.\nThis project was started as a Google Summer of Code 2021 project with the Liquid Galaxy Organization alongside the Dronecoria team, developed by Brazilian student Karine Pistili.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+    },
     {
-    "name": "Orbit Satellite Visualizer",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp",
-        "6.webp",
-        "7.webp",
-        "8.webp",
-        "9.webp"
-    ],
-    "base_url": "/apps/Orbit Satellite Visualizer/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 3, 2022",
-    "android_OS": "8.0+",
-    "version": "1.0",
-    "content": "Display space-related content on your Liquid Galaxy Platform.\nOrbit Satellite Visualizer is part of a Google Summer of Code 2021 project, created in collaboration with the Liquid Galaxy Lab. This app is designed to support projects that use the Liquid Galaxy platform.\nThe app allows users to explore live satellite data by inputting the Satellite Catalog Number (SATCAT or SCN) and view fixed constellations such as Iridium or Starlink. It also includes a database of satellite orbits, a sample rocket trajectory, and key spaceports around the world.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-},
+        "name": "Orbit Satellite Visualizer",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp",
+            "9.webp"
+        ],
+        "base_url": "/apps/Orbit Satellite Visualizer/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 3, 2022",
+        "android_OS": "8.0+",
+        "version": "1.0",
+        "content": "Display space-related content on your Liquid Galaxy Platform.\nOrbit Satellite Visualizer is part of a Google Summer of Code 2021 project, created in collaboration with the Liquid Galaxy Lab. This app is designed to support projects that use the Liquid Galaxy platform.\nThe app allows users to explore live satellite data by inputting the Satellite Catalog Number (SATCAT or SCN) and view fixed constellations such as Iridium or Starlink. It also includes a database of satellite orbits, a sample rocket trajectory, and key spaceports around the world.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+    },
     {
-    "name": "Arduino Controller App",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp",
-        "6.webp"
-    ],
-    "base_url": "/apps/Arduino Controller App/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 10, 2022",
-    "android_OS": "4.3+",
-    "version": "1.0.0",
-    "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-},
-{
-    "name": "LG Gesture and Voice control",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp"
-    ],
-    "base_url": "/apps/LG_Gesture_and_Voice_control/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 24, 2023",
-    "android_OS": "7.0+",
-    "version": "1.0.0",
-    "content": "Improve the control of the LG with voice commands, body poses, and hand gestures.\nThe LG Gesture & Voice Control project is a comprehensive initiative that seeks to enhance the Liquid Galaxy Rig's control capabilities by incorporating advanced interaction methods, such as voice commands, body poses, and hand gestures. Developed as a Flutter application, this project harnesses cutting-edge technologies, including Mediapipe, ML Kit, and Voice Recognition, to revolutionize how users interact with the Liquid Galaxy Rig.\nThe Liquid Galaxy Rig is a sophisticated multi-screen system that offers a captivating panoramic viewing experience. Traditionally, controlling such a complex system has often relied on conventional input methods. However, the LG Gesture & Voice Control project challenges this norm by introducing innovative and intuitive modes of interaction.\nCreated using Flutter, its capabilities enable the creation of a seamless and visually appealing interface that serves as the foundation for gesture and voice control functionalities. This cross-platform nature ensures that the benefits of this project can be enjoyed across multiple devices and operating systems.\nMediapipe, a robust open-source framework developed by Google, plays a pivotal role in this project. It provides a rich set of tools for building applications that involve perception-based tasks, including gesture and pose recognition. By integrating Mediapipe's capabilities, the LG Gesture & Voice Control project can accurately track hand gestures and body poses, translating them into actionable commands for the Liquid Galaxy Rig. This allows users to manipulate and navigate the system using natural movements.\nThe project bridges the gap between humans and machines by seamlessly blending gesture recognition, voice commands, and intuitive user interfaces. Users can easily navigate the Liquid Galaxy Rig, simplifying complex tasks and amplifying the system's accessibility.\nThe potential applications of the LG Gesture & Voice Control project are diverse. From educational presentations and interactive exhibitions to artistic displays and immersive entertainment experiences, the project opens doors to new modes of engagement.\nLG Gesture & Voice Control underscores the dynamic nature of human-computer interaction. The fusion of Flutter, Mediapipe, ML Kit, and voice recognition technology showcases modern development tools' capabilities and paves the way for future advancements in user experience design."
-},
-{
-    "name": "TINYGS Data Visualization Tool",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp"
-    ],
-    "base_url": "/apps/TINYGS Data Visualization Tool/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 25, 2022",
-    "android_OS": "7.0+",
-    "version": "1.0",
-    "content": "This is an Android application that visualizes satellites and ground stations available on the TinyGS server. It provides geographical animations of satellites and ground stations on a Liquid Galaxy setup. Users need a running Liquid Galaxy system, an Android tablet, and an internet connection to use this tool.\n\n**Key Features:**\n- **Satellite**: Visualize a collection of satellites moving around the Earth.\n- **Ground Station**: Display TinyGS ground stations powered by LoRa boards and ground wave antennas.\n- **Packets**: Showcase signals received from satellites via ground stations or TinyGS.\n\nThis project was developed as part of Google Summer of Code 2022 by Goutam Verma, with Merul Diman as mentor and Andreu Ibañez, Mario Ezquerro as co-mentors.\n\n**Lleida Liquid Galaxy LAB support:** Pau Francino\n**Liquid Galaxy Org Director:** Andreu Ibañez\nApp released by Alejandro Illán Marcos."
-},
-{
-    "name": "GDG Community Visualization",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp"
-    ],
-    "base_url": "/apps/GDG_Community_Visualization/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 13, 2023",
-    "android_OS": "9.0+",
-    "version": "1.0.0",
-    "content": "Google Developer Groups Explorer is a comprehensive and user-friendly app designed to provide developers and technology enthusiasts with an enriched experience of the Google Developer Groups community. This app is a one-stop solution for accessing details about both new and old Google Developer Groups, their events, notifications, accessibility options, and interactive features.\nKey Features:\nNew and Old GDG Information: Stay updated with the latest and historical information about Google Developer Groups. Discover new groups and explore the history of established ones.\nUpcoming and Past Events: Access information about upcoming GDG events and dive into details of past events. Stay informed about the topics, speakers, and schedules.\nEvent Notifications: Set up event notifications to receive timely alerts for upcoming GDG events. Never miss out on exciting opportunities to learn and network.\nDual Theme Options: Choose between a dark and light theme to ensure a comfortable viewing experience based on your preferences and lighting conditions.\nText-to-Speech Accessibility: Enable the Text-to-Speech feature for enhanced accessibility. This feature ensures that users with reading difficulties can conveniently listen to the content.\nRecent Events Archive: Easily access details of events that have concluded within the past 7 days.\nFresh Data Updates: Users can update the app's database by clearing outdated data and fetching the latest information from the official GDG website, ensuring accurate and current details.\nGoogle Earth Integration: Visualize GDG groups on Google Earth for an immersive experience. Interact with the map to access additional group-specific information."
-},
-{
-    "name": "Celestial Satellite Tracker",
-    "icon": "icon.webp",
-    "category": "Education",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp"
-    ],
-    "base_url": "/apps/Celestial_Satellite_Tracker/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 18, 2023",
-    "android_OS": "6.0+",
-    "version": "1.0.1",
-    "content": "Track satellites, orbit, and control Arduino pointer.\nStay connected to the celestial realm with STEAM Celestial Satellite Tracker. This app offers a simple and engaging way to explore satellite orbits and interact with space technology.\nVisualize the paths of satellites orbiting Earth using our easy-to-use interface. This app gives you access to real-time information. With a few taps, project a satellite's trajectory on a Liquid Galaxy rig for a unique visual experience.\nConnect your mobile device to an Arduino-powered pointer via Bluetooth. Experience the thrill of controlling a 3D model that mimics the movement of a satellite. Send data to the pointer and see it respond in real time, showing you the satellite's direction. This dynamic interaction provides an immersive experience that bridges the gap between the digital and physical realms.\nKey Features:\n*Visualize satellite orbits on a Liquid Galaxy rig\n*Access real-time satellite data.\n*Connect and control an Arduino-powered pointer.\nDownload STEAM Celestial Satellite Tracker today and embark on a journey of space exploration from the palm of your hand."
-},
-{
-    "name": "Liquid Galaxy Basic Controller",
-    "icon": "icon.webp",
-    "category": "Tools",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp"
-    ],
-    "base_url": "/apps/Liquid_Galaxy_Basic_Controller/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Jun 17, 2024",
-    "android_OS": "5.0+",
-    "version": "1.0.0",
-    "content": "Connect to LG screens and control them: Reboot, go home, orbit and display city.\nThe LG Connection App manages Liquid Galaxy screens. Users can reboot screens, navigate to home cities, initiate orbit actions, and clear KMLs. It also prints an HTML bubble on a 3 LG screen setup, displaying the city name and user's name. The app includes a straightforward welcome screen, connection settings, and a service screen with buttons for executing commands."
-}, 
-{
-    "name": "Asteroids LG Retro Gaming",
-    "icon": "icon.webp",
-    "category": "Arcade",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp"
-    ],
-    "base_url": "/apps/Asteroids_LG_Retro_Gaming/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Sep 11, 2022",
-    "android_OS": "4.4W+",
-    "version": "1.0.1",
-    "content": "Galaxy Asteroids game manager and controller.\nThe Asteroids Liquid Galaxy Retro Gaming is an app created with the intention of making the management of the Asteroids game in the Liquid Galaxy easier for any user. By simply installing the Asteroids and the ALGRG server on your Liquid Galaxy master you can quickly launch and stop the game on all screens and also get access to a controller!"
-},
-{
-    "name": "LG Space Chess",
-    "icon": "icon.webp",
-    "category": "Strategy",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp",
-        "6.webp"
-    ],
-    "base_url": "/apps/LG_Space_Chess/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Aug 23, 2022",
-    "android_OS": "4.4+",
-    "version": "1.0.0",
-    "content": "Play chess with your community against a strong AI located in a satellite.\nA Newspace-related visualization project in collaboration with Hydra-Space & Hybridium.\nThe basic idea is to use the Liquid Galaxy cluster to visualize a world chess game that will happen with people worldwide and through satellite communications, a world's first !!!\nTwo teams, the Earth (you) and the Space (a strong AI) Every day the Earth makes, at least, one move, the most common move among you all, so play as a community and not as an individual.\nOnce the Earth has made a move, wait for Space.\nThe satellite may last a bit to answer, renember that the satellite must connect with the ground station, so you may not see the move in hours.\nWe also provide an individual gamemode, so you can play in the meantime.\nDo not forget about the real time satellite tracking!\nThis project has been started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization alongside HydraSpace and Hybridium., developed by Pablo Sanchidrian.\nLleida Liquid Galaxy LAB support: Pau Francino.\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos"
-}, 
-{
-    "name": "HAPIS",
-    "icon": "icon.webp",
-    "category": "Social",
-    "carousel_assets": [
-        "1.webp",
-        "2.webp",
-        "3.webp"
-    ],
-    "base_url": "/apps/HAPIS/",
-    "file": "app/",
-    "pwa_link": "",
-    "type": "app",
-    "date": "Jul 26, 2022",
-    "android_OS": "6.0+",
-    "version": "1.1.0",
-    "content": "Homeless Aid Panoramic Interactive System\nThis app is a social net to contact people with homeless and help them"
-}
+        "name": "Arduino Controller App",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp"
+        ],
+        "base_url": "/apps/Arduino Controller App/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 10, 2022",
+        "android_OS": "4.3+",
+        "version": "1.0.0",
+        "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+    },
+    {
+        "name": "LG Gesture and Voice control",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/LG_Gesture_and_Voice_control/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 24, 2023",
+        "android_OS": "7.0+",
+        "version": "1.0.0",
+        "content": "Improve the control of the LG with voice commands, body poses, and hand gestures.\nThe LG Gesture & Voice Control project is a comprehensive initiative that seeks to enhance the Liquid Galaxy Rig's control capabilities by incorporating advanced interaction methods, such as voice commands, body poses, and hand gestures. Developed as a Flutter application, this project harnesses cutting-edge technologies, including Mediapipe, ML Kit, and Voice Recognition, to revolutionize how users interact with the Liquid Galaxy Rig.\nThe Liquid Galaxy Rig is a sophisticated multi-screen system that offers a captivating panoramic viewing experience. Traditionally, controlling such a complex system has often relied on conventional input methods. However, the LG Gesture & Voice Control project challenges this norm by introducing innovative and intuitive modes of interaction.\nCreated using Flutter, its capabilities enable the creation of a seamless and visually appealing interface that serves as the foundation for gesture and voice control functionalities. This cross-platform nature ensures that the benefits of this project can be enjoyed across multiple devices and operating systems.\nMediapipe, a robust open-source framework developed by Google, plays a pivotal role in this project. It provides a rich set of tools for building applications that involve perception-based tasks, including gesture and pose recognition. By integrating Mediapipe's capabilities, the LG Gesture & Voice Control project can accurately track hand gestures and body poses, translating them into actionable commands for the Liquid Galaxy Rig. This allows users to manipulate and navigate the system using natural movements.\nThe project bridges the gap between humans and machines by seamlessly blending gesture recognition, voice commands, and intuitive user interfaces. Users can easily navigate the Liquid Galaxy Rig, simplifying complex tasks and amplifying the system's accessibility.\nThe potential applications of the LG Gesture & Voice Control project are diverse. From educational presentations and interactive exhibitions to artistic displays and immersive entertainment experiences, the project opens doors to new modes of engagement.\nLG Gesture & Voice Control underscores the dynamic nature of human-computer interaction. The fusion of Flutter, Mediapipe, ML Kit, and voice recognition technology showcases modern development tools' capabilities and paves the way for future advancements in user experience design."
+    },
+    {
+        "name": "TINYGS Data Visualization Tool",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/TINYGS Data Visualization Tool/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 25, 2022",
+        "android_OS": "7.0+",
+        "version": "1.0",
+        "content": "This is an Android application that visualizes satellites and ground stations available on the TinyGS server. It provides geographical animations of satellites and ground stations on a Liquid Galaxy setup. Users need a running Liquid Galaxy system, an Android tablet, and an internet connection to use this tool.\n\n**Key Features:**\n- **Satellite**: Visualize a collection of satellites moving around the Earth.\n- **Ground Station**: Display TinyGS ground stations powered by LoRa boards and ground wave antennas.\n- **Packets**: Showcase signals received from satellites via ground stations or TinyGS.\n\nThis project was developed as part of Google Summer of Code 2022 by Goutam Verma, with Merul Diman as mentor and Andreu Ibañez, Mario Ezquerro as co-mentors.\n\n**Lleida Liquid Galaxy LAB support:** Pau Francino\n**Liquid Galaxy Org Director:** Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+    },
+    {
+        "name": "GDG Community Visualization",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/GDG_Community_Visualization/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 13, 2023",
+        "android_OS": "9.0+",
+        "version": "1.0.0",
+        "content": "Google Developer Groups Explorer is a comprehensive and user-friendly app designed to provide developers and technology enthusiasts with an enriched experience of the Google Developer Groups community. This app is a one-stop solution for accessing details about both new and old Google Developer Groups, their events, notifications, accessibility options, and interactive features.\nKey Features:\nNew and Old GDG Information: Stay updated with the latest and historical information about Google Developer Groups. Discover new groups and explore the history of established ones.\nUpcoming and Past Events: Access information about upcoming GDG events and dive into details of past events. Stay informed about the topics, speakers, and schedules.\nEvent Notifications: Set up event notifications to receive timely alerts for upcoming GDG events. Never miss out on exciting opportunities to learn and network.\nDual Theme Options: Choose between a dark and light theme to ensure a comfortable viewing experience based on your preferences and lighting conditions.\nText-to-Speech Accessibility: Enable the Text-to-Speech feature for enhanced accessibility. This feature ensures that users with reading difficulties can conveniently listen to the content.\nRecent Events Archive: Easily access details of events that have concluded within the past 7 days.\nFresh Data Updates: Users can update the app's database by clearing outdated data and fetching the latest information from the official GDG website, ensuring accurate and current details.\nGoogle Earth Integration: Visualize GDG groups on Google Earth for an immersive experience. Interact with the map to access additional group-specific information."
+    },
+    {
+        "name": "Celestial Satellite Tracker",
+        "icon": "icon.webp",
+        "category": "Education",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/Celestial_Satellite_Tracker/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 18, 2023",
+        "android_OS": "6.0+",
+        "version": "1.0.1",
+        "content": "Track satellites, orbit, and control Arduino pointer.\nStay connected to the celestial realm with STEAM Celestial Satellite Tracker. This app offers a simple and engaging way to explore satellite orbits and interact with space technology.\nVisualize the paths of satellites orbiting Earth using our easy-to-use interface. This app gives you access to real-time information. With a few taps, project a satellite's trajectory on a Liquid Galaxy rig for a unique visual experience.\nConnect your mobile device to an Arduino-powered pointer via Bluetooth. Experience the thrill of controlling a 3D model that mimics the movement of a satellite. Send data to the pointer and see it respond in real time, showing you the satellite's direction. This dynamic interaction provides an immersive experience that bridges the gap between the digital and physical realms.\nKey Features:\n*Visualize satellite orbits on a Liquid Galaxy rig\n*Access real-time satellite data.\n*Connect and control an Arduino-powered pointer.\nDownload STEAM Celestial Satellite Tracker today and embark on a journey of space exploration from the palm of your hand."
+    },
+    {
+        "name": "Liquid Galaxy Basic Controller",
+        "icon": "icon.webp",
+        "category": "Tools",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/Liquid_Galaxy_Basic_Controller/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Jun 17, 2024",
+        "android_OS": "5.0+",
+        "version": "1.0.0",
+        "content": "Connect to LG screens and control them: Reboot, go home, orbit and display city.\nThe LG Connection App manages Liquid Galaxy screens. Users can reboot screens, navigate to home cities, initiate orbit actions, and clear KMLs. It also prints an HTML bubble on a 3 LG screen setup, displaying the city name and user's name. The app includes a straightforward welcome screen, connection settings, and a service screen with buttons for executing commands."
+    },
+    {
+        "name": "Asteroids LG Retro Gaming",
+        "icon": "icon.webp",
+        "category": "Arcade",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
+        ],
+        "base_url": "/apps/Asteroids_LG_Retro_Gaming/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 11, 2022",
+        "android_OS": "4.4W+",
+        "version": "1.0.1",
+        "content": "Galaxy Asteroids game manager and controller.\nThe Asteroids Liquid Galaxy Retro Gaming is an app created with the intention of making the management of the Asteroids game in the Liquid Galaxy easier for any user. By simply installing the Asteroids and the ALGRG server on your Liquid Galaxy master you can quickly launch and stop the game on all screens and also get access to a controller!"
+    },
+    {
+        "name": "LG Space Chess",
+        "icon": "icon.webp",
+        "category": "Strategy",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp"
+        ],
+        "base_url": "/apps/LG_Space_Chess/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Aug 23, 2022",
+        "android_OS": "4.4+",
+        "version": "1.0.0",
+        "content": "Play chess with your community against a strong AI located in a satellite.\nA Newspace-related visualization project in collaboration with Hydra-Space & Hybridium.\nThe basic idea is to use the Liquid Galaxy cluster to visualize a world chess game that will happen with people worldwide and through satellite communications, a world's first !!!\nTwo teams, the Earth (you) and the Space (a strong AI) Every day the Earth makes, at least, one move, the most common move among you all, so play as a community and not as an individual.\nOnce the Earth has made a move, wait for Space.\nThe satellite may last a bit to answer, renember that the satellite must connect with the ground station, so you may not see the move in hours.\nWe also provide an individual gamemode, so you can play in the meantime.\nDo not forget about the real time satellite tracking!\nThis project has been started as a Google Summer of Code 2022 project with the Liquid Galaxy Organization alongside HydraSpace and Hybridium., developed by Pablo Sanchidrian.\nLleida Liquid Galaxy LAB support: Pau Francino.\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos"
+    },
+    {
+        "name": "HAPIS",
+        "icon": "icon.webp",
+        "category": "Social",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "base_url": "/apps/HAPIS/",
+        "file": "app/",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Jul 26, 2022",
+        "android_OS": "6.0+",
+        "version": "1.1.0",
+        "content": "Homeless Aid Panoramic Interactive System\nThis app is a social net to contact people with homeless and help them"
+    }
 ]
