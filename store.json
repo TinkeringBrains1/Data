@@ -400,5 +400,53 @@
     "android_OS": "4.4W+",
     "version": "1.0.1",
     "content": "An app to help with the reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator is an Open Source app designed to assist in reforestation missions on degraded areas of the planet. The project consists of an Android app where users can plan reforesting missions by defining areas of seeding, specific seed/tree locations, drone landing points, fly zones, and other useful metrics.\nAll the gathered information can be dynamically displayed on the Liquid Galaxy cluster using KMLs and on the app itself with the help of charts, maps, and text, providing an immersive overview of the project.\nThis project was started as a Google Summer of Code 2021 project with the Liquid Galaxy Organization alongside the Dronecoria team, developed by Brazilian student Karine Pistili.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+},
+    {
+    "name": "Orbit Satellite Visualizer",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp",
+        "8.webp",
+        "9.webp"
+    ],
+    "base_url": "./apps/Orbit Satellite Visualizer/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 3, 2022",
+    "android_OS": "8.0+",
+    "version": "1.0",
+    "content": "Display space-related content on your Liquid Galaxy Platform.\nOrbit Satellite Visualizer is part of a Google Summer of Code 2021 project, created in collaboration with the Liquid Galaxy Lab. This app is designed to support projects that use the Liquid Galaxy platform.\nThe app allows users to explore live satellite data by inputting the Satellite Catalog Number (SATCAT or SCN) and view fixed constellations such as Iridium or Starlink. It also includes a database of satellite orbits, a sample rocket trajectory, and key spaceports around the world.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
+},
+    {
+    "name": "Arduino Controller App",
+    "icon": "icon.webp",
+    "category": "Education",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp"
+    ],
+    "base_url": "./apps/Arduino Controller App/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Aug 10, 2022",
+    "android_OS": "4.3+",
+    "version": "1.0.0",
+    "content": "This app is used to personalize navigation with some developed controllers.\nThe Arduino Controller App has a friendly and intuitive interface, with simple commands and connections to send data to controllers. Users can change the default navigation list of controls, create personalized navigation lists with favorite places, modify the tour time during the tour, and start the WiFi connection between the controls and Liquid Galaxy.\nThe app also provides the ability to update network data and includes an information page about GSoC, the Liquid Galaxy community, and the project collaborators.\n\nLiquid Galaxy Org Director: Andreu Ibañez\nApp released by Alejandro Illán Marcos."
 }
+
+
+    
 ]
