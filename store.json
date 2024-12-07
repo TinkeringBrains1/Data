@@ -545,5 +545,24 @@
     "android_OS": "5.0+",
     "version": "1.0.0",
     "content": "Connect to LG screens and control them: Reboot, go home, orbit and display city.\nThe LG Connection App manages Liquid Galaxy screens. Users can reboot screens, navigate to home cities, initiate orbit actions, and clear KMLs. It also prints an HTML bubble on a 3 LG screen setup, displaying the city name and user's name. The app includes a straightforward welcome screen, connection settings, and a service screen with buttons for executing commands."
+}, 
+{
+    "name": "Asteroids LG Retro Gaming",
+    "icon": "icon.webp",
+    "category": "Arcade",
+    "carousel_assets": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp"
+    ],
+    "base_url": "/apps/Asteroids_LG_Retro_Gaming/",
+    "file": "/app/",
+    "pwa_link": "",
+    "type": "app",
+    "date": "Sep 11, 2022",
+    "android_OS": "4.4W+",
+    "version": "1.0.1",
+    "content": "Galaxy Asteroids game manager and controller.\nThe Asteroids Liquid Galaxy Retro Gaming is an app created with the intention of making the management of the Asteroids game in the Liquid Galaxy easier for any user. By simply installing the Asteroids and the ALGRG server on your Liquid Galaxy master you can quickly launch and stop the game on all screens and also get access to a controller!"
 }
 ]
