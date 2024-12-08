@@ -657,7 +657,7 @@
           "6.webp",
           "7.webp"
         ],
-        "base_url": "/apps/Simple_CMS_E.S./",
+        "base_url": "/apps/Simple_CMS_E.S/",
         "file": "app/",
         "pwa_link": "",
         "type": "app",
