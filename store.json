@@ -143,8 +143,7 @@
             "4.webp",
             "5.webp",
             "6.webp",
-            "7.webp",
-            "8.webp"
+            "7.webp"
         ],
         "base_url": "/apps/Simple_CMS/",
         "file": "app/Simple CMS_1.0.apk",
@@ -645,4 +644,5 @@
         "version": "2.0.0",
         "content": "An app to help on reforestation of degraded areas by drone or manually.\nThe Reforestation Assistant & Simulator idea is an Open Source app to help on reforestation of degraded areas of the planet by drone or manually. The project consists of an Android App where users can plan the reforesting missions, by defining areas of seeding, specific seed/tree location, drone landing points, fly zones and other helpful metrics. "
   }
+  
 ]
