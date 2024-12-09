@@ -776,6 +776,28 @@
         "android_OS": "13.0+",
         "version": "1.0.13",
         "content": "The LG AI Travel Itinerary project makes travel planning fun by combining AI-generated stories with beautiful visuals on the LG Rig platform.\nUsing the Groq Model, it creates exciting fictional travel experiences, highlighting important Points of Interest in each destination.\nThe platform offers step-by-step travel suggestions and includes voice interactions for a more engaging experience.\nThis innovative approach provides a unique and personalized travel adventure, showcasing different cultures and landscapes in an inspiring and memorable way."
+    },
+    {
+        "name": "LG-AI-Touristic Explorer",
+        "icon": "icon.webp",
+        "category": "Travel & Local",
+        "carousel_assets": [
+          "1.webp",
+          "2.webp",
+          "3.webp",
+          "4.webp",
+          "5.webp",
+          "6.webp",
+          "7.webp",
+          "8.webp"
+        ],
+        "base_url": "/apps/LG_AI_Touristic_Explorer/",
+        "file": "app/lg_ai_travel_itinerary_1.0.13_13.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Sep 3, 2024",
+        "android_OS": "13.0+",
+        "version": "2.3",
+        "content": "LG-AI-Touristic Explorer lets users explore cities using Gemini API and LG Rig.\nLG-AI-Touristic-Explorer is an immersive Flutter application designed to bring cities to life through captivating visualizations and engaging storytelling. By using the power of AI and Google Maps, the app offers a unique exploration experience that delves into a city's geography, history, culture, and points of interest.\nThe app utilizes Google's Gemini API for getting the inference and Deepgram API for narration."
     }
-
 ]
