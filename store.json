@@ -305,7 +305,7 @@
     "category": "Education",
     "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
     "base_url": "/apps/LiquidArt_AI/",
-    "file": "app/",
+    "file": "app/LiquidArt_AI.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 22, 2023",
@@ -401,7 +401,7 @@
       "6.webp"
     ],
     "base_url": "/apps/Arduino Controller App/",
-    "file": "app/",
+    "file": "app/arduino_controller.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 10, 2022",
@@ -555,7 +555,7 @@
       "6.webp"
     ],
     "base_url": "/apps/Reforestation_Assistant_Sim2/",
-    "file": "app/",
+    "file": "app/ras2.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Sep 6, 2022",
