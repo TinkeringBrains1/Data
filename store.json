@@ -429,7 +429,7 @@
     "category": "Education",
     "carousel_assets": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp"],
     "base_url": "/apps/TINYGS Data Visualization Tool/",
-    "file": "app/",
+    "file": "app/tinygs.apk",
     "pwa_link": "",
     "type": "app",
     "date": "Aug 25, 2022",
